@@ -1,5 +1,5 @@
 # Example waveforms that are featured throughout the paper
-All waveforms are stored in MATLAB format, they are designed to yield b = 2 ms/µm2 at a minimal time given a maximal gradient amplitude and slew rate of 80 mT/m and 100 T/m/s. Loading any of these functions will generate a gradient waveform with supplementary information.
+All waveforms are stored in MATLAB format, they are designed to yield b = 2 ms/µm<sup>2</sup> at a minimal time given a maximal gradient amplitude and slew rate of 80 mT/m and 100 T/m/s. Loading any of these functions will generate a gradient waveform with supplementary information.
 
 ### Example:  
 Calling the following in matlab
