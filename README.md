@@ -1,10 +1,10 @@
 # Gradient waveform design for tensor-valued encoding in diffusion MRI
 
-Filip Szczepankiewicz1,2,3*, Carl-Fredrik Westin1,2 and Markus Nilsson3
+Filip Szczepankiewicz<sup>1,2,3,*</sup>, Carl-Fredrik Westin<sup>1,2</sup> and Markus Nilsson<sup>3</sup>
 
 1.	Radiology, Brigham and Women’s Hospital, Boston, MA, US
 2.	Harvard Medical School, Boston, MA, US
-3.	Clinical Sciences, Lund, Lund University, Lund, Sweden
+3.	Diagnostic Radiology, Clinical Sciences Lund, Lund University, Lund, Sweden
 
 **\*Corresponding author**  
 E-mail: filip.szczepankiewicz@med.lu.se
